@@ -10,7 +10,7 @@ Welcome to WebCrafter! WebCrafter is a platform designed to help users create an
 
 ### Screenshot
 
-![WebCrafter Screenshot](https://via.placeholder.com/800x600.png?text=WebCrafter+App+Screenshot)
+![WebCrafter Screenshot](https://miro.medium.com/v2/resize:fit:828/format:webp/1*sol1chByWx3cAWkxQOg-4w.jpeg)
 
 ### Installation
 
