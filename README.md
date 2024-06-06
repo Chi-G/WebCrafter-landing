@@ -4,7 +4,7 @@
 
 Welcome to WebCrafter! WebCrafter is a platform designed to help users create and customize their own web pages without needing advanced coding knowledge. It's ideal for individuals and small businesses looking to establish an online presence quickly and easily.
 
-**Deployed Site**: [WebCrafter](https://webcrafter-78a8f51421ed.herokuapp.com/)
+**Deployed Site**: [WebCrafter](https://webcrafter-78a8f51421ed.herokuapp.com/) 
 **Final Project Blog Article**: [WebCrafter Project Blog]([https://webcrafter-landingpage.com/blog](https://chijindu-nwokeohuru.medium.com/personal-story-behind-webcrafter-3daddf0c907e))  
 **Author's LinkedIn**: [Chijindu Nwokeohuru](https://www.linkedin.com/in/chijindu-nwokeohuru)
 
